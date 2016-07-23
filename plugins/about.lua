@@ -16,7 +16,7 @@ function about:action(msg)
 	-- other plugins.
 	if msg.forward_from then return end
 
-	local output = self.config.text .. '\n V '..bot.version..' By W3thiq Al-Qajar 🙊\n'
+	local output = self.config.text .. '\n V '..bot.version..' By @MrRegular 🙊\n'
 
 	if (msg.new_chat_participant and msg.new_chat_participant.id == self.info.id)
 		or msg.text_lower:match('^/start')
