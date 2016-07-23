@@ -1,12 +1,12 @@
 return {
 
 	-- Your authorization token from the botfather.
-	bot_api_key = '',
+	bot_api_key = '231785910:AAFyaURnyImt_Re7rqlX0zS3hKqdBfjt0Xk',
 	-- Your Telegram ID.
-	admin = ,
+	admin = 267201633 ,
 	-- about the bot
 	text = [[
-	<text hear>
+	Ｉ'ｍ ｔａｌｋｉｎｇ ｒｏｂｏｔ :))\n Ｍｙ Ｆａｔｈｅｒ= @MrRegular
 	]],
         -- Your authorization token Api from the http://developer.simsimi.com/
 	simsimi_key = '41250a68-3cb5-43c8-9aa2-d7b3caf519b1',
