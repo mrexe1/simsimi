@@ -44,7 +44,7 @@ function simsimi:action(msg)
 	--local ft = '1.0'
 	local langer
 	if self.config.langer then
-		langer = 'ar'
+		langer = 'fr'
 	else
 		langer = 'en' -- NO English
 	end
