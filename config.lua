@@ -20,7 +20,6 @@ return {
 	'simsimi',
 	'help',
 	'about',
-        'wiki',
 	}
 
 }
