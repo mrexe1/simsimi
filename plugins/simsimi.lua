@@ -47,8 +47,6 @@ function simsimi:action(msg)
 		langer = 'ar'
 	else
 		langer = 'en' -- NO English
-        else
-                langer = 'fr'
 	end
 
 	local url = 'http://api.simsimi.com/request.p?key=' ..self.config.simsimi_key.. '&lc=' ..self.config.lang.. '&ft=1.0&text=' .. URL.escape(input)
